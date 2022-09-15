@@ -1,9 +1,4 @@
-# - datos
-Lugar de los ejemplos:
-- https://www.tensorflow.org/
-- Learn
-- For Javascrpit
-- Tutorials
+
 
 # - importante
 "_Rcognize hand..._" requiere de lo siguiente:
