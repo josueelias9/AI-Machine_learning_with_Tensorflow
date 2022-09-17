@@ -26,6 +26,8 @@ Lugar de los ejemplos:
 - TensorFlow
 - Tutorials
 - ML basics with Keras
+  - ML basics with Keras (BEGINNER)
+  - Images (ADVANCED) 
 
 # - fuentes
 https://developers.google.com/machine-learning/practica/image-classification/convolutional-neural-networks
