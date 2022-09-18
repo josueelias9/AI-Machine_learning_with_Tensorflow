@@ -21,15 +21,6 @@ https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-pytho
 # Ejemplos
 desde este [link](https://www.tensorflow.org/) seguir:
 
-regresion y clasificacion:
-- _Learn_
-- _TensorFlow_
-- _Tutorials_
-- _ML basics with Keras_
-  - _Basic image classification_ (MINST de mod)
-  - _Text classification with TF Hub_
-  - _Regression_ (gasolina)
-
 Recomendadores:
 - _Resources_
 - _Libraries & extensions_
